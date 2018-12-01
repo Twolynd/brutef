@@ -6,7 +6,7 @@
 """
 Simulation of a generator of passwords.
 
-Number of persons = n
+Number of people = n
 length of password = lp
 
 cf is the sample, you can always excluit a specific number of letters.
