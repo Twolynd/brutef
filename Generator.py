@@ -14,7 +14,7 @@ cf is the sample, you can always excluit a specific number of letters.
 The only advantage this code has over of the others is the size of the file, i've added a Comparation function just for excluiting
 useless passwords "aaaaaa" for example.
 
-The problem here is very similar to the classic brute force, you can choice a sample of people (n) where you can ask for their passwords for a specific lenght, then you can ask yourself for the probability of guess a password. In this frame the probability of find the  password is proportional to 10^(lenght of cf), so you have to do those simulations to reach the goal.
+The problem here is very similar to the classic brute force, you can choice a sample of people (n) where you can ask for their passwords for a specific length, then you can ask yourself for the probability of guess a password. In this frame the probability of find the  password is proportional to 10^(length of cf), so you have to do those simulations to reach the goal.
 
 
 """
